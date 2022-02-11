@@ -1,6 +1,6 @@
 # Projet-El-massar
 
-Ce projet à été réalisé de bout en bout suivant le modèle Mérise. onnées Dans un prémier temps nous avons réceuillis les données du client qui est la société el_massar, puis nous avons fait ressortir les entités et les associations puis les cardinatilité: c'est le Modèle Conceptuel de Données (MCD), puis Nous avons réalisé le Modèle Logique des Données (MLD) qui découle des cardinalités suivants les différentes règles de passage de MCD au MLD. En fin suisvant le MLD nous avons réalisé le MPD avec la création de la base de données  et l'apparition des Tables et les dépendances entre ces tables suivi des insertions sur ces tables grace à un outils de gestion des bases de données qui est le SQL-server.
+Ce projet à été réalisé de bout en bout suivant la méthode Mérise.Dans un prémier temps nous avons réceuillis les données du client qui est la société el_massar, puis nous avons fait ressortir les entités et les associations puis les cardinatilité: c'est le Modèle Conceptuel de Données (MCD), puis Nous avons réalisé le Modèle Logique des Données (MLD) qui découle des cardinalités suivants les différentes règles de passage de MCD au MLD. En fin suisvant le MLD nous avons réalisé le MPD avec la création de la base de données  et l'apparition des Tables et les dépendances entre ces tables suivi des insertions sur ces tables grace à un outils de gestion des bases de données qui est le SQL-server.
 
 
 
